@@ -1,1 +1,1 @@
-consola.log("Todos somos un mundo")
+consola.log("Todos somos un Mundo")
