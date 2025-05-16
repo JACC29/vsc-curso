@@ -1,15 +1,6 @@
 {
-	"folders": [
-		{
-			"path": "C:/Users/Personal/vsc-curso"
-		},
-		{
-			"path": "."
-		}
-	],
-	"settings": {},
-	"launch": {
-		"version": "0.2.0",
-		"configurations": []
-	}
+    "launch": {
+        "version": "0.2.0",
+        "configurations": []
+    }
 }
